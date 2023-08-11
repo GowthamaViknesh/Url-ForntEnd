@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital@1&family=Josefin+Sans:wght@700&display=swap');
+
 body {
+  color: white;
+  background-image: url('https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62609.jpg?w=1060&t=st=1691647485~exp=1691648085~hmac=e5e488e96b15611bb87d0e25abf115cc1cf7d024afa94a7b1e083402d7bb6280');
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: auto;
+  overflow: auto;
 }
 
 code {
